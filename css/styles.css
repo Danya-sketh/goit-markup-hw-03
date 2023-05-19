@@ -19,14 +19,15 @@ color: #434455;
 background-color: #FFFFFF;
 }
 
-.container-divvv {
-    display: flex;
+.container-div {
     align-items: center;
+display: flex;
 }
 
 .container {
     width: 1158px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
     padding: 0 15px 0 15px;
     display: flex;
 }
