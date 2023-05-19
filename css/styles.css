@@ -21,6 +21,7 @@ background-color: #FFFFFF;
 
 .container-div {
     display: flex;
+    align-items: center;
 }
 
 .container {
@@ -86,10 +87,13 @@ background-color: #FFFFFF;
 
 .address {
     font-style: normal;
+    margin-left: auto;
 }
 
 .list {
     list-style: none;
+    padding-left: 0;
+    margin: 0;
 }
 
 .address-list {
@@ -98,8 +102,6 @@ background-color: #FFFFFF;
 }
 
 .address-link {
-    margin-left: auto;
-    margin-right: auto;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
