@@ -158,12 +158,26 @@ background-color: #404BBF;
 
 /*----------------- ABOUT-US ------------------*/
 
+.about-us {
+    padding: 120px 0;
+}
+
+.about-ul {
+    display: flex;
+    gap: 24px;
+}
+
+.about-li {
+    width: calc((100%-72px)/4);
+}
+
 .about-list-h {
     font-weight: 500;
 font-size: 20px;
 line-height: 24px;
 letter-spacing: 0.02em;
     color: var(--text-color);
+    margin-bottom: 8px;
 }
 
 .text {
