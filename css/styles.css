@@ -333,6 +333,7 @@ body {
 .button-link:focus {
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
 
 .link {
