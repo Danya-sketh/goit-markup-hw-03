@@ -25,6 +25,11 @@ body {
     margin-bottom: 8px;
 }
 
+.container-header {
+    display: flex;
+    text-align: center;
+}
+
 .container-div {
     align-items: center;
     display: flex;
