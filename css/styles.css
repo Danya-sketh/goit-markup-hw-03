@@ -104,6 +104,7 @@ body {
 .address {
     font-style: normal;
     margin-left: auto;
+    
 }
 
 .list {
@@ -115,6 +116,8 @@ body {
 .address-list {
     display: flex;
     gap: 40px;
+    align-items: center;
+    
 }
 
 .address-link {
