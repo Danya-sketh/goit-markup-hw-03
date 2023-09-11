@@ -50,6 +50,7 @@ body {
 
 .header {
     border-bottom: 1px solid #E7E9FC;
+    align-items: center;
 }
 
 .logo {
