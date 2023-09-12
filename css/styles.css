@@ -10,6 +10,11 @@ img {
     display: block;
 }
 
+ul {
+    padding-left: 0;
+    margin: 0;
+}
+
 
 /* body */
 body {
