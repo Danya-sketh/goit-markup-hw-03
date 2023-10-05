@@ -15,6 +15,15 @@ ul {
     margin: 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
 
 /* body */
 body {
@@ -28,7 +37,7 @@ body {
     padding: 32px 16px;
     border: 1px solid var(--portfolio-color);
     border-top: none;
-    margin-bottom: 8px;
+    
 }
 
 .container-header {
@@ -334,7 +343,7 @@ body {
 
 .footer {
     background-color: var(--text-color);
-    font-family: "Raleway", sans-serif;
+    
     padding: 100px 0;
 }
 
@@ -424,7 +433,7 @@ font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.72px;
 margin-bottom: 72px;
-    margin-top: 120px;
+    
     text-align: center;
 }
 
@@ -444,7 +453,7 @@ margin-bottom: 72px;
     justify-content: center;
     row-gap: 48px;
     column-gap: 24px;
-    margin-bottom: 72px;
+    
     flex-wrap: wrap;
 }
 
